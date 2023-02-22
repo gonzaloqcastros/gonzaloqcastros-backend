@@ -1,0 +1,12 @@
+{
+    "name": "product-server",
+    "version": "1.0.0",
+    "description": "Server to handle product requests",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "Gonzalo Quispe Castros",
+    "license": "MIT"
+  }
+  
