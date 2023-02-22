@@ -4,9 +4,11 @@
     "description": "Server to handle product requests",
     "main": "app.js",
     "scripts": {
-      "start": "node app.js"
+        "start": "node app.js"
     },
     "author": "Gonzalo Quispe Castros",
-    "license": "MIT"
-  }
-  
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
